@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="1" total="7" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-04-29T15:12:12 CEST" name="All Test Suite" finished-at="2024-04-29T15:12:30 CEST" duration-ms="18817">
+    <groups>
+      <group name="group1">
+        <method signature="Test_Cases_Set_Three.case1()[pri:0, instance:practice_page.Test_Cases_Set_Three@36b4091c]" name="case1" class="practice_page.Test_Cases_Set_Three"/>
+      </group> <!-- group1 -->
+    </groups>
+    <test started-at="2024-04-29T15:12:12 CEST" name="C:/Users/Dell/Desktop/Automation code/Practice_Om/src/test/java/practice_page" finished-at="2024-04-29T15:12:30 CEST" duration-ms="18817">
+      <class name="practice_page.Test_Cases_Set_One">
+        <test-method is-config="true" signature="suite_Start()[pri:0, instance:practice_page.Test_Cases_Set_One@d771cc9]" started-at="2024-04-29T15:12:12 CEST" name="suite_Start" finished-at="2024-04-29T15:12:12 CEST" duration-ms="36" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- suite_Start -->
+        <test-method is-config="true" signature="starting_Point()[pri:0, instance:practice_page.Test_Cases_Set_One@d771cc9]" started-at="2024-04-29T15:12:12 CEST" name="starting_Point" finished-at="2024-04-29T15:12:12 CEST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- starting_Point -->
+        <test-method is-config="true" signature="browser_open()[pri:0, instance:practice_page.Test_Cases_Set_One@d771cc9]" started-at="2024-04-29T15:12:12 CEST" name="browser_open" finished-at="2024-04-29T15:12:18 CEST" duration-ms="5690" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browser_open -->
+        <test-method is-config="true" signature="before_All_Class()[pri:0, instance:practice_page.Test_Cases_Set_One@d771cc9]" started-at="2024-04-29T15:12:18 CEST" name="before_All_Class" finished-at="2024-04-29T15:12:18 CEST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- before_All_Class -->
+        <test-method is-config="true" signature="entry_Run_for_all_method()[pri:0, instance:practice_page.Test_Cases_Set_One@d771cc9]" started-at="2024-04-29T15:12:18 CEST" name="entry_Run_for_all_method" finished-at="2024-04-29T15:12:18 CEST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- entry_Run_for_all_method -->
+        <test-method signature="case1()[pri:1, instance:practice_page.Test_Cases_Set_One@d771cc9]" started-at="2024-04-29T15:12:18 CEST" name="case1" finished-at="2024-04-29T15:12:20 CEST" duration-ms="2225" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- case1 -->
+        <test-method is-config="true" signature="exit_Run_for_all_method()[pri:0, instance:practice_page.Test_Cases_Set_One@d771cc9]" started-at="2024-04-29T15:12:20 CEST" name="exit_Run_for_all_method" finished-at="2024-04-29T15:12:20 CEST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- exit_Run_for_all_method -->
+        <test-method is-config="true" signature="entry_Run_for_all_method()[pri:0, instance:practice_page.Test_Cases_Set_One@d771cc9]" started-at="2024-04-29T15:12:20 CEST" name="entry_Run_for_all_method" finished-at="2024-04-29T15:12:20 CEST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- entry_Run_for_all_method -->
+        <test-method signature="case2()[pri:2, instance:practice_page.Test_Cases_Set_One@d771cc9]" started-at="2024-04-29T15:12:20 CEST" name="case2" finished-at="2024-04-29T15:12:22 CEST" duration-ms="1836" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- case2 -->
+        <test-method is-config="true" signature="exit_Run_for_all_method()[pri:0, instance:practice_page.Test_Cases_Set_One@d771cc9]" started-at="2024-04-29T15:12:22 CEST" name="exit_Run_for_all_method" finished-at="2024-04-29T15:12:22 CEST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- exit_Run_for_all_method -->
+        <test-method is-config="true" signature="after_All_Class()[pri:0, instance:practice_page.Test_Cases_Set_One@d771cc9]" started-at="2024-04-29T15:12:22 CEST" name="after_All_Class" finished-at="2024-04-29T15:12:22 CEST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- after_All_Class -->
+        <test-method is-config="true" signature="Close_Window()[pri:0, instance:practice_page.Test_Cases_Set_One@d771cc9]" started-at="2024-04-29T15:12:22 CEST" name="Close_Window" finished-at="2024-04-29T15:12:22 CEST" duration-ms="393" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Close_Window -->
+        <test-method is-config="true" signature="endMessage()[pri:0, instance:practice_page.Test_Cases_Set_One@d771cc9]" started-at="2024-04-29T15:12:30 CEST" name="endMessage" finished-at="2024-04-29T15:12:30 CEST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endMessage -->
+        <test-method is-config="true" signature="after_Suite_Ends()[pri:0, instance:practice_page.Test_Cases_Set_One@d771cc9]" started-at="2024-04-29T15:12:31 CEST" name="after_Suite_Ends" finished-at="2024-04-29T15:12:31 CEST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- after_Suite_Ends -->
+      </class> <!-- practice_page.Test_Cases_Set_One -->
+      <class name="practice_page.Test_Cases_Set_Two">
+        <test-method is-config="true" signature="browser_open()[pri:0, instance:practice_page.Test_Cases_Set_Two@4671115f]" started-at="2024-04-29T15:12:24 CEST" name="browser_open" finished-at="2024-04-29T15:12:26 CEST" duration-ms="1602" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browser_open -->
+        <test-method signature="case1()[pri:0, instance:practice_page.Test_Cases_Set_Two@4671115f]" started-at="2024-04-29T15:12:26 CEST" name="case1" finished-at="2024-04-29T15:12:28 CEST" duration-ms="2315" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- case1 -->
+        <test-method signature="case2()[pri:0, instance:practice_page.Test_Cases_Set_Two@4671115f]" started-at="2024-04-29T15:12:28 CEST" name="case2" finished-at="2024-04-29T15:12:30 CEST" depends-on-methods="practice_page.Test_Cases_Set_Two.case1" duration-ms="1630" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- case2 -->
+        <test-method signature="case4()[pri:0, instance:practice_page.Test_Cases_Set_Two@4671115f]" started-at="2024-04-29T15:12:30 CEST" name="case4" finished-at="2024-04-29T15:12:30 CEST" duration-ms="9" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- case4 -->
+        <test-method is-config="true" signature="Close_Window()[pri:0, instance:practice_page.Test_Cases_Set_Two@4671115f]" started-at="2024-04-29T15:12:30 CEST" name="Close_Window" finished-at="2024-04-29T15:12:30 CEST" duration-ms="383" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Close_Window -->
+      </class> <!-- practice_page.Test_Cases_Set_Two -->
+      <class name="practice_page.Test_Cases_Set_Three">
+        <test-method is-config="true" signature="browser_open()[pri:0, instance:practice_page.Test_Cases_Set_Three@36b4091c]" started-at="2024-04-29T15:12:22 CEST" name="browser_open" finished-at="2024-04-29T15:12:24 CEST" duration-ms="1849" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browser_open -->
+        <test-method signature="case1()[pri:0, instance:practice_page.Test_Cases_Set_Three@36b4091c]" started-at="2024-04-29T15:12:24 CEST" name="case1" finished-at="2024-04-29T15:12:24 CEST" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- case1 -->
+        <test-method is-config="true" signature="Close_Window()[pri:0, instance:practice_page.Test_Cases_Set_Three@36b4091c]" started-at="2024-04-29T15:12:24 CEST" name="Close_Window" finished-at="2024-04-29T15:12:24 CEST" duration-ms="390" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Close_Window -->
+      </class> <!-- practice_page.Test_Cases_Set_Three -->
+    </test> <!-- C:/Users/Dell/Desktop/Automation code/Practice_Om/src/test/java/practice_page -->
+  </suite> <!-- All Test Suite -->
+</testng-results>

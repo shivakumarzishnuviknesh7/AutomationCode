@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [All Test Suite]" guice-stage="DEVELOPMENT" verbose="0">
+  <listeners>
+    <listener class-name="custom_utilities.base.Listeners"/>
+  </listeners>
+  <test thread-count="5" name="C:/Users/Dell/Desktop/Automation code/Practice_Om/src/test/java/practice_page(failed)" verbose="0">
+    <classes>
+      <class name="practice_page.Test_Cases_Set_One">
+        <methods>
+          <include name="case2"/>
+          <include name="entry_Run_for_all_method"/>
+          <include name="before_All_Class"/>
+          <include name="after_Suite_Ends"/>
+          <include name="after_All_Class"/>
+          <include name="endMessage"/>
+          <include name="suite_Start"/>
+          <include name="exit_Run_for_all_method"/>
+          <include name="starting_Point"/>
+          <include name="Close_Window"/>
+          <include name="browser_open"/>
+        </methods>
+      </class> <!-- practice_page.Test_Cases_Set_One -->
+      <class name="practice_page.Test_Cases_Set_Two">
+        <methods>
+          <include name="case1"/>
+          <include name="Close_Window"/>
+          <include name="browser_open"/>
+          <include name="case2"/>
+        </methods>
+      </class> <!-- practice_page.Test_Cases_Set_Two -->
+    </classes>
+  </test> <!-- C:/Users/Dell/Desktop/Automation code/Practice_Om/src/test/java/practice_page(failed) -->
+</suite> <!-- Failed suite [All Test Suite] -->

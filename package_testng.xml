@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite" parallel="tests" thread-count="2">
+
+    <listeners>
+        <listener class-name="custom_utilities.base.Listeners" />
+    </listeners>
+
+    <test verbose="2" preserve-order="true"
+          name="C:/Users/Dell/Desktop/Automation code/Practice_Om/src/test/java/practice_page">
+        <packages>
+            <package name="practice_page"/>
+        </packages>
+    </test>
+</suite>

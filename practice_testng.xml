@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <parameter name="Value" value="textmessage"></parameter>
+    <test verbose="2" preserve-order="true" name="C:/Users/Dell/Desktop/Automation code/Practice_Om">
+
+        <classes>
+
+            <class name="practice_page.Test_Cases_Set_One">
+                <methods>
+                    <include name="case1"/>
+                    <exclude name="case2"/>
+                </methods>
+            </class>
+
+            <class name="practice_page.Test_Cases_Set_Two">
+                <methods>
+                    <exclude name="case.*"/>
+                </methods>
+            </class>
+
+            <class name="practice_page.Test_Cases_Set_Three">
+
+            </class>
+
+        </classes>
+    </test>
+</suite>
