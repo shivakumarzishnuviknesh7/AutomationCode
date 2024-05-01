@@ -71,12 +71,14 @@ public class Browser_Launch {
         }
         else if (Browser.equalsIgnoreCase("Edge")) {
 
+            //edge
             WebDriverManager.edgedriver().setup();
             driver = new EdgeDriver();
 
         }
         else if (Browser.equalsIgnoreCase("Firefox")) {
 
+            //firefox
             WebDriverManager.firefoxdriver().setup();
             driver = new FirefoxDriver();
 
